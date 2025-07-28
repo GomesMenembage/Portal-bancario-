@@ -1,4 +1,4 @@
-```markdown
+
 # 🏦 Portal de Consulta de Serviços Bancários
 
 Este projeto é um portal web simples que permite aos usuários consultar informações sobre serviços bancários por meio de uma interface amigável, integrada a uma API inteligente.
@@ -14,5 +14,5 @@ Este projeto é um portal web simples que permite aos usuários consultar inform
 ### Back-end
 - Flask
 - Middleware de CORS
-- Integração com [Google Gemini API](https://ai.google.dev/)
-- Hospedagem via [Render](https://render.com)
+- Integração com Google Gemini API
+- Hospedagem via Render
